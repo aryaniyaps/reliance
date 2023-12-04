@@ -1,0 +1,15 @@
+[project]
+name = "reliance"
+version = "0.1.0"
+description = "Modern Inversion of Control (Dependency injection) toolkit for Python."
+authors = [
+    {name = "Aryan Iyappan", email = "aryaniyappan2006@gmail.com"},
+]
+dependencies = []
+requires-python = ">=3.12"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
